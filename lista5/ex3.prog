@@ -1,0 +1,7 @@
+read N;
+SUM := 2X22X;
+while N > 0 do
+SUM := SUM + N;
+N := N - 1;
+od;
+write SUM;
